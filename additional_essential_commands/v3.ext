@@ -1,2 +1,2 @@
 keyUsage               = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment, keyAgreement, keyCertSign
-subjectAltName         = DNS:example.com, DNS:www.example.com
+subjectAltName         = DNS:gekkologic.com, DNS:www.gekkologic.com
