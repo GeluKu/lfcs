@@ -4,17 +4,17 @@ distinguished_name = req_distinguished_name
 req_extensions = v3_req
 
 [req_distinguished_name]
-countryName = GB
-stateOrProvinceName = London
-localityName = Westminster
-organizationName = Example Widgets
+countryName = CH
+stateOrProvinceName = ZH
+localityName = Zurich
+organizationName = GekkoLogic
 organizationalUnitName = IT
-commonName = www.example.com
-emailAddress = admin@example.com
+commonName = www.gekkologic.com
+emailAddress = gekko.logic@gmail.com
 
 [v3_req]
 subjectAltName = @alt_names
 
 [alt_names]
-DNS.1 = example.com
-DNS.2 = www.example.com
+DNS.1 = gekkologic.com
+DNS.2 = www.gekkologic.com
